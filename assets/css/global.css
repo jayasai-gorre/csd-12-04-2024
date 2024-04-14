@@ -588,7 +588,7 @@ p{
 	line-height:1.7em;
 	font-size:var(--font-16);
 	color:var(--text-color);
-	font-family: var(--font-family-roboto);
+	font-family: Poppins;
 }
 
 /* Typography */

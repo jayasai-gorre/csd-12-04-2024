@@ -188,6 +188,8 @@ body{
 .about-section .content-column{
 	position:relative;
 	margin-bottom:var(--margin-bottom-40);
+	display: flex;
+	align-items: center;
 }
 
 .about-section .content-column .inner-column{
@@ -219,6 +221,7 @@ body{
 	padding-left:var(--padding-left-70);
 	margin-bottom:var(--margin-bottom-20);
 	font-family:var(--font-family-gilroy);
+	display: none;
 }
 
 .option-list li .icon{
@@ -253,6 +256,7 @@ body{
 	margin-right:var(--margin-right-100);
 	padding:35px 30px 10px 40px;
 	background-color:var(--white-color);
+	display: none;
 }
 
 /* Fact Counter */
