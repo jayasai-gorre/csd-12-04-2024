@@ -9,8 +9,8 @@
 
 .main-footer{
 	position:relative;
-	padding-bottom:20px;
-	background-color:var(--dark-color);
+	padding-bottom:10px;
+	background-color: #C2F1D2;
 }
 
 .main-footer:before{
@@ -20,12 +20,12 @@
 	bottom:0px;
 	right:0px;
 	height:60px;
-	background-color:#111111;
+	background-color:#051F39;
 }
 
 .main-footer .widgets-section{
 	position:relative;
-	padding:100px 0px 70px;
+	padding:28px 0px 5px;
 }
 
 .main-footer .footer-widget{
